@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages           [index.html](/index.html)
+## Welcome to GitHub Pages           [indexOld.html](/indexOld.html)
 AWS යාමට නම් html files ඹ්නැ.
 හැබැයි  ඒකෙ ඉඳල md call කරාට බෑ.
 ======
