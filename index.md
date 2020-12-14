@@ -1,4 +1,11 @@
 ## Welcome to GitHub Pages           [index.html](/index.html)
+AWS යාමට නම් html files ඹ්නැ.
+හැබැයි  ඒකෙ ඉඳල md call කරාට බෑ.
+======
+මේක md. මේකෙ සිට html call කරන්න බෑ?/පුඇ
+
+
+
 
 You can use the [editor on GitHub](https://github.com/DharmaShri/CheckApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
