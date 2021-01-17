@@ -6,7 +6,7 @@ AWS යාමට නම් html files ඹ්නැ.
 ඒතකොට මේක බෑ. indexOld.html පුලුවන්.
 
 ඒ කියන්නේ දෙකින් ඒකයි පුලුවන්. index.html OR index.md
-
+----
 
 You can use the [editor on GitHub](https://github.com/DharmaShri/CheckApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
